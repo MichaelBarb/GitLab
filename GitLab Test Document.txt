@@ -1,2 +1,0 @@
-GitLab Test Document.
-Edit From Browser
